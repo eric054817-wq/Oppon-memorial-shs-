@@ -1,0 +1,154 @@
+index.html<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppon Memorial Senior High School</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Oppon Memorial Senior High School</h1>
+        <p><strong>Motto:</strong> Non Sine Pulvere Palma (No Reward Without Sweat/Hard Work)</p>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#academics">Academics</a>
+            <a href="#departments">Departments</a>
+            <a href="#facilities">Facilities</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Home -->
+    <section id="home">
+        <h2>Welcome to Oppon Memorial Senior High School</h2>
+        <p>
+            Oppon Memorial Senior High School is committed to providing
+            quality education that develops disciplined, responsible,
+            and motivated students for lifelong success.
+        </p>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+        <h2>About Our School</h2>
+
+        <p>
+            Oppon Memorial Senior High School was established around
+            1973/1974 through the vision of the late Kyidomhene of
+            Kokofu, Nana Aduboahene, together with other prominent
+            citizens of the community.
+        </p>
+
+        <p>
+            The school operates both Day and Boarding systems and follows
+            the Ghana Education Service Double-Track academic system.
+            Its alumni association is known as <strong>OMOSA
+            (Oppon Memorial Old Students Association).</strong>
+        </p>
+
+        <h3>Mission</h3>
+        <p>
+            Respecting the individualized needs of students for total
+            development through a comprehensive and meaningful education.
+        </p>
+
+        <h3>Vision</h3>
+        <p>
+            Self-disciplined and motivated students for holistic education.
+        </p>
+
+        <h3>Core Values</h3>
+
+        <ul>
+            <li>Academic Excellence</li>
+            <li>Cordial Relationship among Staff and Students</li>
+            <li>Commitment to Duty and Hard Work</li>
+            <li>Ethical and Responsible Behaviour</li>
+            <li>Equality of Access to Opportunities</li>
+            <li>Efficient Time Management</li>
+            <li>Environmental Cleanliness</li>
+        </ul>
+    </section>
+
+    <!-- Academics -->
+    <section id="academics">
+
+        <h2>Academic Programmes</h2>
+
+        <ul>
+            <li>General Science</li>
+            <li>Business</li>
+            <li>General Arts</li>
+            <li>Visual Arts</li>
+            <li>Home Economics</li>
+        </ul>
+
+    </section>
+
+    <!-- Departments -->
+
+    <section id="departments">
+
+        <h2>Departments</h2>
+
+        <ul>
+            <li>Science Department</li>
+            <li>Mathematics Department</li>
+            <li>Language Department</li>
+            <li>Arts Department</li>
+        </ul>
+
+    </section>
+
+    <!-- Facilities -->
+
+    <section id="facilities">
+
+        <h2>School Facilities</h2>
+
+        <ul>
+            <li>Library</li>
+            <li>Science Laboratory</li>
+            <li>ICT Laboratory</li>
+            <li>Sports Centre</li>
+            <li>Boarding Facilities</li>
+        </ul>
+
+    </section>
+
+    <!-- Contact -->
+
+    <section id="contact">
+
+        <h2>Contact Us</h2>
+
+        <p><strong>School:</strong> Oppon Memorial Senior High School</p>
+
+        <p>Email: info@opponmemorialshs.edu.gh</p>
+
+        <p>Phone: +233 XXX XXX XXX</p>
+
+        <p>Location: Kokofu, Ashanti Region, Ghana</p>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer>
+
+        <p>&copy; 2026 Oppon Memorial Senior High School.</p>
+
+        <p>Non Sine Pulvere Palma</p>
+
+        <p>OMOSA - Oppon Memorial Old Students Association</p>
+
+    </footer>
+
+</body>
+</html>
+
